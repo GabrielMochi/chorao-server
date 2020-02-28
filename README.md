@@ -1,2 +1,2 @@
 # chorao
-Cloud storage
+A cloud storage application
